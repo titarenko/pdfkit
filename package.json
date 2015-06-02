@@ -9,7 +9,7 @@
     "document",
     "vector"
   ],
-  "version": "0.7.1",
+  "version": "0.7.2",
   "homepage": "http://pdfkit.org/",
   "author": {
     "name": "Devon Govett",
@@ -35,7 +35,8 @@
   },
   "dependencies": {
     "png-js": ">=0.1.0",
-    "linebreak": "~0.1.0"
+    "linebreak": "~0.1.0",
+    "coffee-script": "^1.7.1"
   },
   "scripts": {
     "prepublish": "make js",
